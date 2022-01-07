@@ -1,5 +1,4 @@
 # mysite
 
-##testing
-
 It's testing git.
+https://rtinit.github.io/mysite/
